@@ -1,4 +1,4 @@
-# Assign 7 (int value) to 'a' variable;
+e# Assign 7 (int value) to 'a' variable;
 a=7
 # Assign 3 (int value) to 'b' variable;
 b=3
